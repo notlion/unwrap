@@ -1,0 +1,9 @@
+BUILD WITH RAKE ON OS X:
+
+- open Terminal
+
+$ sudo gem install rake
+
+- cd to your project directory
+
+$ rake run
