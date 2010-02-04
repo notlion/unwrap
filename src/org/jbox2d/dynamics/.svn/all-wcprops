@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/jbox2d/!svn/ver/111/trunk/src/org/jbox2d/dynamics
+END
+Island.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/Island.java
+END
+DebugDraw.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jbox2d/!svn/ver/116/trunk/src/org/jbox2d/dynamics/DebugDraw.java
+END
+Steppable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jbox2d/!svn/ver/126/trunk/src/org/jbox2d/dynamics/Steppable.java
+END
+Body.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/Body.java
+END
+BoundaryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/BoundaryListener.java
+END
+BoundaryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/BoundaryResponse.java
+END
+BodyDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/BodyDef.java
+END
+portversion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/portversion.txt
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/World.java
+END
+DestructionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/DestructionListener.java
+END
+ContactFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/ContactFilter.java
+END
+TimeStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/TimeStep.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jbox2d/!svn/ver/111/trunk/src/org/jbox2d/dynamics/package.html
+END
+ContactManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/ContactManager.java
+END
+DefaultContactFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/DefaultContactFilter.java
+END
+ContactListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/ContactListener.java
+END

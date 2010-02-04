@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jbox2d/!svn/ver/111/trunk/src/org/jbox2d/dynamics/contacts
+END
+PolyAndCircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/PolyAndCircleContact.java
+END
+ContactResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/ContactResult.java
+END
+ContactConstraintPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/contacts/ContactConstraintPoint.java
+END
+ContactRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/contacts/ContactRegister.java
+END
+ContactPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/ContactPoint.java
+END
+ContactEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/ContactEdge.java
+END
+CircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/CircleContact.java
+END
+portversion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/portversion.txt
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/Contact.java
+END
+PolyContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/PolyContact.java
+END
+NullContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/NullContact.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jbox2d/!svn/ver/111/trunk/src/org/jbox2d/dynamics/contacts/package.html
+END
+ContactSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/contacts/ContactSolver.java
+END
+ContactConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/dynamics/contacts/ContactConstraint.java
+END
+ContactCreateFcn.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/contacts/ContactCreateFcn.java
+END

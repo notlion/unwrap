@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/jbox2d/!svn/ver/109/trunk/src/org/jbox2d/collision
+END
+OBB.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/OBB.java
+END
+Distance.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/Distance.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/Pair.java
+END
+PairManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/PairManager.java
+END
+Manifold.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/Manifold.java
+END
+CollidePoly.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/CollidePoly.java
+END
+PairCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/PairCallback.java
+END
+Collision.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/Collision.java
+END
+Shape.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/Shape.java
+END
+PolygonShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/PolygonShape.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jbox2d/!svn/ver/109/trunk/src/org/jbox2d/collision/package.html
+END
+CircleShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/CircleShape.java
+END
+CircleDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/CircleDef.java
+END
+MassData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/MassData.java
+END
+CollideCircle.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/CollideCircle.java
+END
+BufferedPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/BufferedPair.java
+END
+Bound.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/Bound.java
+END
+Proxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/Proxy.java
+END
+ShapeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/ShapeType.java
+END
+SupportsGenericDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/SupportsGenericDistance.java
+END
+TOI.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/TOI.java
+END
+portversion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/portversion.txt
+END
+ManifoldPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/ManifoldPoint.java
+END
+BroadPhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/BroadPhase.java
+END
+AABB.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/AABB.java
+END
+Segment.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/Segment.java
+END
+PolygonDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/PolygonDef.java
+END
+ContactID.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/ContactID.java
+END
+ShapeDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/ShapeDef.java
+END
+FilterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/collision/FilterData.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jbox2d/!svn/ver/111/trunk/src/org/jbox2d/dynamics/joints
+END
+MouseJointDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jbox2d/!svn/ver/100/trunk/src/org/jbox2d/dynamics/joints/MouseJointDef.java
+END
+RevoluteJoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/joints/RevoluteJoint.java
+END
+Joint.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/joints/Joint.java
+END
+PulleyJoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/joints/PulleyJoint.java
+END
+PrismaticJoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/joints/PrismaticJoint.java
+END
+JointType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/joints/JointType.java
+END
+JointDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/joints/JointDef.java
+END
+JointEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/joints/JointEdge.java
+END
+RevoluteJointDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/joints/RevoluteJointDef.java
+END
+LimitState.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/joints/LimitState.java
+END
+GearJoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/joints/GearJoint.java
+END
+PrismaticJointDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jbox2d/!svn/ver/100/trunk/src/org/jbox2d/dynamics/joints/PrismaticJointDef.java
+END
+GearJointDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jbox2d/!svn/ver/100/trunk/src/org/jbox2d/dynamics/joints/GearJointDef.java
+END
+DistanceJoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/joints/DistanceJoint.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jbox2d/!svn/ver/111/trunk/src/org/jbox2d/dynamics/joints/package.html
+END
+PulleyJointDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jbox2d/!svn/ver/103/trunk/src/org/jbox2d/dynamics/joints/PulleyJointDef.java
+END
+MouseJoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jbox2d/!svn/ver/100/trunk/src/org/jbox2d/dynamics/joints/MouseJoint.java
+END
+DistanceJointDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/dynamics/joints/DistanceJointDef.java
+END
+Jacobian.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jbox2d/!svn/ver/93/trunk/src/org/jbox2d/dynamics/joints/Jacobian.java
+END

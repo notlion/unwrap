@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/jbox2d/!svn/ver/110/trunk/src/org/jbox2d/common
+END
+Color3f.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/common/Color3f.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/common/Settings.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jbox2d/!svn/ver/110/trunk/src/org/jbox2d/common/package.html
+END
+Vec2.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/jbox2d/!svn/ver/108/trunk/src/org/jbox2d/common/Vec2.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jbox2d/!svn/ver/127/trunk/src/org/jbox2d/common/MathUtils.java
+END
+XForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jbox2d/!svn/ver/117/trunk/src/org/jbox2d/common/XForm.java
+END
+Mat22.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jbox2d/!svn/ver/100/trunk/src/org/jbox2d/common/Mat22.java
+END
+Sweep.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/jbox2d/!svn/ver/95/trunk/src/org/jbox2d/common/Sweep.java
+END
